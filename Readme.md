@@ -27,7 +27,7 @@ A model that looks like a 99%-accurate MNIST classifier collapses to near-random
 ## How to run
 
 ```bash
-git clone https://github.com/AIDeveloperSalehi/AI_Explainability.git
+git clone https://github.com/Hojat-Salehi/AI_Explainability.git
 cd AI_Explainability
 pip install -r requirements.txt
 python download_MNIST.py
